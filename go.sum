@@ -1,7 +1,7 @@
 github.com/FrogoAI/memory v0.0.0-20260120150654-ca52f307f29e h1:aZT5TP0a9jIT9jcGUM/Ij8OmFW4bgiIZ63eyvZXzN3g=
 github.com/FrogoAI/memory v0.0.0-20260120150654-ca52f307f29e/go.mod h1:+sJshPWf+fOx1djlgYn07oMfUaTHQwgnscb49JeaGE8=
-github.com/FrogoAI/multiproc v0.0.0-20260120145226-1a9f584f6e29 h1:0dm+7WWvU0F+hDW8LKAJsh8uR7bsufKg+rkvo1ip7a0=
-github.com/FrogoAI/multiproc v0.0.0-20260120145226-1a9f584f6e29/go.mod h1:tp6rwDSei3QnScda55CDuO62DufRa/I8RfkwFJ6Hx0U=
+github.com/FrogoAI/multiproc v1.0.0 h1:QAJ+6ukf8/oe3rUl9KQSm6NfWhloFnh72JoO9Nc/+QE=
+github.com/FrogoAI/multiproc v1.0.0/go.mod h1:tp6rwDSei3QnScda55CDuO62DufRa/I8RfkwFJ6Hx0U=
 github.com/FrogoAI/testutils v0.0.0-20260120141156-9cd2d6874ef4 h1:dZXKhQWWdx7VN9R5jOKptXj9cgimeYT4wVhaNNBDi/A=
 github.com/FrogoAI/testutils v0.0.0-20260120141156-9cd2d6874ef4/go.mod h1:CTSciZSJpcuDcJh8RM9Pfp+Imb4GSHLEdkcXg/x+bZQ=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
