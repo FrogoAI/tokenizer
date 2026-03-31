@@ -1,5 +1,5 @@
-github.com/FrogoAI/memory v0.0.0-20260120150654-ca52f307f29e h1:aZT5TP0a9jIT9jcGUM/Ij8OmFW4bgiIZ63eyvZXzN3g=
-github.com/FrogoAI/memory v0.0.0-20260120150654-ca52f307f29e/go.mod h1:+sJshPWf+fOx1djlgYn07oMfUaTHQwgnscb49JeaGE8=
+github.com/FrogoAI/memory v1.0.0 h1:ireLFlGsZU1OEIKvZqFH7FY5Pjm+PGfmKcVDZMX9568=
+github.com/FrogoAI/memory v1.0.0/go.mod h1:mfufH8UNiBJ2Kt21jrPVPxszsNA7sa5I+QS8GunlDo0=
 github.com/FrogoAI/multiproc v0.0.0-20260120145226-1a9f584f6e29 h1:0dm+7WWvU0F+hDW8LKAJsh8uR7bsufKg+rkvo1ip7a0=
 github.com/FrogoAI/multiproc v0.0.0-20260120145226-1a9f584f6e29/go.mod h1:tp6rwDSei3QnScda55CDuO62DufRa/I8RfkwFJ6Hx0U=
 github.com/FrogoAI/testutils v0.0.0-20260120141156-9cd2d6874ef4 h1:dZXKhQWWdx7VN9R5jOKptXj9cgimeYT4wVhaNNBDi/A=
@@ -23,8 +23,6 @@ github.com/rivo/uniseg v0.4.7 h1:WUdvkW8uEhrYfLC4ZzdpI2ztxP1I582+49Oc5Mq64VQ=
 github.com/rivo/uniseg v0.4.7/go.mod h1:FN3SvrM+Zdj16jyLfmOkMNblXMcoc8DfTHruCPUcx88=
 github.com/schollz/progressbar/v2 v2.15.0 h1:dVzHQ8fHRmtPjD3K10jT3Qgn/+H+92jhPrhmxIJfDz8=
 github.com/schollz/progressbar/v2 v2.15.0/go.mod h1:UdPq3prGkfQ7MOzZKlDRpYKcFqEMczbD7YmbPgpzKMI=
-github.com/sirbu/golang-common v0.0.0-20170403140351-21d4febd4bca h1:BabsdO2Orj0h9Bbj/3FfZ9uDjxP7VINvJ6CVo31a6EA=
-github.com/sirbu/golang-common v0.0.0-20170403140351-21d4febd4bca/go.mod h1:3tONEydJ3mr9ZwyB0zag0KBkKrwbg3WmYfSsbNwuNtc=
 github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
 github.com/stretchr/testify v1.3.0/go.mod h1:M5WIy9Dh21IEIfnGCwXGc5bZfKNJtfHm1UVUgZn+9EI=
 github.com/stretchr/testify v1.11.1 h1:7s2iGBzp5EwR7/aIZr8ao5+dra3wiQyKjjFuvgVKu7U=
@@ -35,8 +33,6 @@ github.com/sugarme/tokenizer v0.3.0 h1:FE8DYbNSz/kSbgEo9l/RjgYHkIJYEdskumitFQBE9
 github.com/sugarme/tokenizer v0.3.0/go.mod h1:VJ+DLK5ZEZwzvODOWwY0cw+B1dabTd3nCB5HuFCItCc=
 github.com/twmb/murmur3 v1.1.8 h1:8Yt9taO/WN3l08xErzjeschgZU2QSrwm1kclYq+0aRg=
 github.com/twmb/murmur3 v1.1.8/go.mod h1:Qq/R7NUyOfr65zD+6Q5IHKsJLwP7exErjN6lyyq3OSQ=
-go.mongodb.org/mongo-driver v1.17.6 h1:87JUG1wZfWsr6rIz3ZmpH90rL5tea7O3IHuSwHUpsss=
-go.mongodb.org/mongo-driver v1.17.6/go.mod h1:Hy04i7O2kC4RS06ZrhPRqj/u4DTYkFDAAccj+rVKqgQ=
 golang.org/x/text v0.33.0 h1:B3njUFyqtHDUI5jMn1YIr5B0IE2U0qck04r6d4KPAxE=
 golang.org/x/text v0.33.0/go.mod h1:LuMebE6+rBincTi9+xWTY8TztLzKHc/9C1uBCG27+q8=
 gopkg.in/yaml.v3 v3.0.1 h1:fxVm/GzAzEWqLHuvctI91KS9hhNmmWOoWu0XTYJS7CA=
